@@ -6,8 +6,8 @@
 			xmlns:dbr="http://dbpedia.org/resource/">
 
 	<rdf:Description rdf:about="https://www.formula1.com/en/drivers/lewis-hamilton.html">
-        <foaf:firstName>Lewis</foaf:firstName>
-        <foaf:lastName>Hamilton</foaf:lastName>
+        <foaf:firstName>LEWIS</foaf:firstName>
+        <foaf:lastName>HAMILTON</foaf:lastName>
         <dc:color>#00d2be</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/lewis-hamilton/_jcr_content/image.img.1024.medium.jpg/1602844295176.jpg</dc:Image>
@@ -26,8 +26,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/valtteri-bottas.html">
-        <foaf:firstName>Valtteri</foaf:firstName>
-        <foaf:lastName>Bottas</foaf:lastName>
+        <foaf:firstName>VALTTERI</foaf:firstName>
+        <foaf:lastName>BOTTAS</foaf:lastName>
         <dc:color>#00d2be</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/valtteri-bottas/_jcr_content/image.img.1024.medium.jpg/1602844369828.jpg</dc:Image>
@@ -46,8 +46,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/max-verstappen.html">
-        <foaf:firstName>Max</foaf:firstName>
-        <foaf:lastName>Verstappen</foaf:lastName>
+        <foaf:firstName>MAX</foaf:firstName>
+        <foaf:lastName>VERSTAPPEN</foaf:lastName>
         <dc:color>#0600ef</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/image.img.1024.medium.jpg/1584012927837.jpg</dc:Image>
@@ -66,8 +66,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/sergio-perez.html">
-        <foaf:firstName>Sergio</foaf:firstName>
-        <foaf:lastName>Perez</foaf:lastName>
+        <foaf:firstName>SERGIO</foaf:firstName>
+        <foaf:lastName>PEREZ</foaf:lastName>
         <dc:color>#f596c8</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/sergio-perez/_jcr_content/image.img.1024.medium.jpg/1600942584166.jpg</dc:Image>
@@ -86,8 +86,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/daniel-ricciardo.html">
-        <foaf:firstName>Daniel</foaf:firstName>
-        <foaf:lastName>Ricciardo</foaf:lastName>
+        <foaf:firstName>DANIEL</foaf:firstName>
+        <foaf:lastName>RICCIARDO</foaf:lastName>
         <dc:color>#fff500</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/daniel-ricciardo/_jcr_content/image.img.1024.medium.jpg/1590499440912.jpg</dc:Image>
@@ -106,8 +106,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/carlos-sainz.html">
-        <foaf:firstName>Carlos</foaf:firstName>
-        <foaf:lastName>Sainz</foaf:lastName>
+        <foaf:firstName>CARLOS</foaf:firstName>
+        <foaf:lastName>SAINZ</foaf:lastName>
         <dc:color>#ff8700</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/carlos-sainz/_jcr_content/image.img.1024.medium.jpg/1598520420119.jpg</dc:Image>
@@ -126,8 +126,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/alexander-albon.html">
-        <foaf:firstName>Alexander</foaf:firstName>
-        <foaf:lastName>Albon</foaf:lastName>
+        <foaf:firstName>ALEXANDER</foaf:firstName>
+        <foaf:lastName>ALBON</foaf:lastName>
         <dc:color>#0600ef</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/alexander-albon/_jcr_content/image.img.1024.medium.jpg/1602843312296.jpg</dc:Image>
@@ -146,8 +146,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/charles-leclerc.html">
-        <foaf:firstName>Charles</foaf:firstName>
-        <foaf:lastName>Leclerc</foaf:lastName>
+        <foaf:firstName>CHARLES</foaf:firstName>
+        <foaf:lastName>LECLERC</foaf:lastName>
         <dc:color>#dc0000</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/image.img.1024.medium.jpg/1602843517642.jpg</dc:Image>
@@ -166,8 +166,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/lando-norris.html">
-        <foaf:firstName>Lando</foaf:firstName>
-        <foaf:lastName>Norris</foaf:lastName>
+        <foaf:firstName>LANDO</foaf:firstName>
+        <foaf:lastName>NORRIS</foaf:lastName>
         <dc:color>#ff8700</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/lando-norris/_jcr_content/image.img.1024.medium.jpg/1602843378861.jpg</dc:Image>
@@ -186,8 +186,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/pierre-gasly.html">
-        <foaf:firstName>Pierre</foaf:firstName>
-        <foaf:lastName>Gasly</foaf:lastName>
+        <foaf:firstName>PIERRE</foaf:firstName>
+        <foaf:lastName>GASLY</foaf:lastName>
         <dc:color>#fff</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/image.img.1024.medium.jpg/1602267173252.jpg</dc:Image>
@@ -206,8 +206,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/lance-stroll.html">
-        <foaf:firstName>Lance</foaf:firstName>
-        <foaf:lastName>Stroll</foaf:lastName>
+        <foaf:firstName>LANCE</foaf:firstName>
+        <foaf:lastName>STROLL</foaf:lastName>
         <dc:color>#f596c8</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/image.img.1024.medium.jpg/1602843839547.jpg</dc:Image>
@@ -226,8 +226,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/sebastian-vettel.html">
-        <foaf:firstName>Sebastian</foaf:firstName>
-        <foaf:lastName>Vettel</foaf:lastName>
+        <foaf:firstName>SEBASTIAN</foaf:firstName>
+        <foaf:lastName>VETTEL</foaf:lastName>
         <dc:color>#dc0000</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/image.img.1024.medium.jpg/1584013014200.jpg</dc:Image>
@@ -246,8 +246,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/daniil-kvyat.html">
-        <foaf:firstName>Daniil</foaf:firstName>
-        <foaf:lastName>Kvyat</foaf:lastName>
+        <foaf:firstName>DANIIL</foaf:firstName>
+        <foaf:lastName>KVYAT</foaf:lastName>
         <dc:color>#fff</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/daniil-kvyat/_jcr_content/image.img.1024.medium.jpg/1602266911825.jpg</dc:Image>
@@ -266,7 +266,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/kimi-raikkonen.html">
-        <foaf:firstName>Kimi</foaf:firstName>
+        <foaf:firstName>KIMI</foaf:firstName>
         <foaf:lastName>Räikkönen</foaf:lastName>
         <dc:color>#960000</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/2col/image.png</foaf:Image>
@@ -286,8 +286,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/romain-grosjean.html">
-        <foaf:firstName>Romain</foaf:firstName>
-        <foaf:lastName>Grosjean</foaf:lastName>
+        <foaf:firstName>ROMAIN</foaf:firstName>
+        <foaf:lastName>GROSJEAN</foaf:lastName>
         <dc:color>#787878</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/romain-grosjean/_jcr_content/image.img.1024.medium.jpg/1584012955838.jpg</dc:Image>
@@ -306,8 +306,8 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/kevin-magnussen.html">
-        <foaf:firstName>Kevin</foaf:firstName>
-        <foaf:lastName>Magnussen</foaf:lastName>
+        <foaf:firstName>KEVIN</foaf:firstName>
+        <foaf:lastName>MAGNUSSEN</foaf:lastName>
         <dc:color>#960000</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/kevin-magnussen/_jcr_content/image.img.1024.medium.jpg/1584012829634.jpg</dc:Image>

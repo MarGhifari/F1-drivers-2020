@@ -267,7 +267,7 @@
 
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/kimi-raikkonen.html">
         <foaf:firstName>KIMI</foaf:firstName>
-        <foaf:lastName>Räikkönen</foaf:lastName>
+        <foaf:lastName>RÄIKKÖNEN</foaf:lastName>
         <dc:color>#960000</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/kimi-raikkonen/_jcr_content/image.img.1024.medium.jpg/1584012751723.jpg</dc:Image>

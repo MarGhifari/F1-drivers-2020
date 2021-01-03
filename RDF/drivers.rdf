@@ -288,7 +288,7 @@
     <rdf:Description rdf:about="https://www.formula1.com/en/drivers/romain-grosjean.html">
         <foaf:firstName>Romain</foaf:firstName>
         <foaf:lastName>Grosjean</foaf:lastName>
-        <dc:color>#960000</dc:color>
+        <dc:color>#787878</dc:color>
         <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/2col/image.png</foaf:Image>
         <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/romain-grosjean/_jcr_content/image.img.1024.medium.jpg/1584012955838.jpg</dc:Image>
         <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/ROMGRO01.png.transform/2col/image.png</dbo:idNumber>
